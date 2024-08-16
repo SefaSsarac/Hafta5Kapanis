@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\Hafta5Kapanis\Hafta5Kapanis\bin\Debug\net8.0\Hafta5Kapanis.exe
+D:\Yazılım\Repository\Hafta5Kapanis\Hafta5Kapanis\bin\Debug\net8.0\Hafta5Kapanis.deps.json
+D:\Yazılım\Repository\Hafta5Kapanis\Hafta5Kapanis\bin\Debug\net8.0\Hafta5Kapanis.runtimeconfig.json
+D:\Yazılım\Repository\Hafta5Kapanis\Hafta5Kapanis\bin\Debug\net8.0\Hafta5Kapanis.dll
+D:\Yazılım\Repository\Hafta5Kapanis\Hafta5Kapanis\bin\Debug\net8.0\Hafta5Kapanis.pdb
+D:\Yazılım\Repository\Hafta5Kapanis\Hafta5Kapanis\obj\Debug\net8.0\Hafta5Kapanis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\Hafta5Kapanis\Hafta5Kapanis\obj\Debug\net8.0\Hafta5Kapanis.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\Hafta5Kapanis\Hafta5Kapanis\obj\Debug\net8.0\Hafta5Kapanis.AssemblyInfo.cs
+D:\Yazılım\Repository\Hafta5Kapanis\Hafta5Kapanis\obj\Debug\net8.0\Hafta5Kapanis.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\Hafta5Kapanis\Hafta5Kapanis\obj\Debug\net8.0\Hafta5Kapanis.dll
+D:\Yazılım\Repository\Hafta5Kapanis\Hafta5Kapanis\obj\Debug\net8.0\refint\Hafta5Kapanis.dll
+D:\Yazılım\Repository\Hafta5Kapanis\Hafta5Kapanis\obj\Debug\net8.0\Hafta5Kapanis.pdb
+D:\Yazılım\Repository\Hafta5Kapanis\Hafta5Kapanis\obj\Debug\net8.0\Hafta5Kapanis.genruntimeconfig.cache
+D:\Yazılım\Repository\Hafta5Kapanis\Hafta5Kapanis\obj\Debug\net8.0\ref\Hafta5Kapanis.dll
